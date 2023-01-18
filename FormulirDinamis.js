@@ -109,28 +109,3 @@ export default FormulirDinamis
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-const submit = async (e) => {
-    e.preventDefault();
-    try {
-        await axios.post('http://localhost:3000/pertanyaan',{
-            question
-        })
-        
-    } catch (error) {
-        console.log(error);
-    }
-}*/
